@@ -46,7 +46,7 @@ header nav li.active a {font-weight: bold}
 /*******************************************************************************************************************
 *  INTRO                                                                                                          
 *******************************************************************************************************************/
-#intro {height: 293px;margin-bottom: 50px;position: relative}
+#intro {height: 323px;margin-bottom: 50px;position: relative}
 #intro h1 {margin-bottom: 0;padding-top: 30px;font-weight: 700;}
 #intro p {font-size: 1.3em;font-weight: bold;margin-bottom: 20px;}
 #intro p a {color: #545454;text-decoration: none;}
