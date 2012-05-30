@@ -1,4 +1,4 @@
 Dysinfectr
 ==========
 
-Dysinfectr web site
+http://www.dysinfectr.com web site
